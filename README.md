@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LoraYonova
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 📫 How to reach me lor4eto111@gmail.com
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/lora-yonova-b01236233/)
+[Gmail](https://www.github.com/lor4eto111@gmail.com)
 
 
 -----------------
